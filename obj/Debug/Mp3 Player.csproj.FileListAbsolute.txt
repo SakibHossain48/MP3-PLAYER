@@ -1,0 +1,35 @@
+C:\Users\User\source\repos\Mp3 Player\obj\Debug\Mp3 Player.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Mp3 Player\obj\Debug\Mp3 Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Mp3 Player\obj\Debug\Mp3_Player.Form1.resources
+C:\Users\User\source\repos\Mp3 Player\obj\Debug\Mp3_Player.Form3.resources
+C:\Users\User\source\repos\Mp3 Player\obj\Debug\Mp3_Player.Properties.Resources.resources
+C:\Users\User\source\repos\Mp3 Player\obj\Debug\Mp3 Player.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Mp3 Player\obj\Debug\Mp3 Player.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mp3 Player\bin\Debug\Mp3 Player.exe.config
+C:\Users\User\source\repos\Mp3 Player\bin\Debug\Mp3 Player.exe
+C:\Users\User\source\repos\Mp3 Player\bin\Debug\Mp3 Player.pdb
+C:\Users\User\source\repos\Mp3 Player\obj\Debug\Mp3 Player.exe
+C:\Users\User\source\repos\Mp3 Player\obj\Debug\Mp3 Player.pdb
+C:\Users\User\source\repos\Mp3 Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\Mp3 Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\source\repos\Mp3 Player\obj\Debug\Mp3 Player.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\Mp3 Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\Mp3 Player\bin\Debug\AxInterop.WMPLib.dll
+D:\project 3\Mp3 Player\bin\Debug\Mp3 Player.exe.config
+D:\project 3\Mp3 Player\bin\Debug\Mp3 Player.exe
+D:\project 3\Mp3 Player\bin\Debug\Mp3 Player.pdb
+D:\project 3\Mp3 Player\bin\Debug\Interop.WMPLib.dll
+D:\project 3\Mp3 Player\bin\Debug\AxInterop.WMPLib.dll
+D:\project 3\Mp3 Player\obj\Debug\Mp3 Player.csproj.AssemblyReference.cache
+D:\project 3\Mp3 Player\obj\Debug\Mp3 Player.csproj.SuggestedBindingRedirects.cache
+D:\project 3\Mp3 Player\obj\Debug\Interop.WMPLib.dll
+D:\project 3\Mp3 Player\obj\Debug\AxInterop.WMPLib.dll
+D:\project 3\Mp3 Player\obj\Debug\Mp3 Player.csproj.ResolveComReference.cache
+D:\project 3\Mp3 Player\obj\Debug\Mp3_Player.Form1.resources
+D:\project 3\Mp3 Player\obj\Debug\Mp3_Player.Form2.resources
+D:\project 3\Mp3 Player\obj\Debug\Mp3_Player.Form3.resources
+D:\project 3\Mp3 Player\obj\Debug\Mp3_Player.Properties.Resources.resources
+D:\project 3\Mp3 Player\obj\Debug\Mp3 Player.csproj.GenerateResource.cache
+D:\project 3\Mp3 Player\obj\Debug\Mp3 Player.csproj.CoreCompileInputs.cache
+D:\project 3\Mp3 Player\obj\Debug\Mp3 Player.exe
+D:\project 3\Mp3 Player\obj\Debug\Mp3 Player.pdb
